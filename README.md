@@ -12,4 +12,3 @@ An AI-powered agent that fetches news articles based on user preferences and sum
 
 ## Usage
 
-(We'll fill this in as we build the app)

@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+debug_config.py
+scripts/check_environment.py
+
+no push/
+src/core/digest_compiler.py
